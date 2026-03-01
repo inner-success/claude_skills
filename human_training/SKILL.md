@@ -1,6 +1,6 @@
 ---
 name: human_training
-description: Reviews the prompts and instructions given in this session and teaches the user how to improve their AI instruction skills across 5 disciplines: prompt engineering, context engineering, intent engineering, specification engineering, and agent and workflow engineering. Use when the user wants feedback on their AI instructions or wants to learn from the current session.
+description: "Reviews the prompts and instructions given in this session and teaches the user how to improve their AI instruction skills across 5 disciplines: prompt engineering, context engineering, intent engineering, specification engineering, and agent and workflow engineering. Use when the user wants feedback on their AI instructions or wants to learn from the current session."
 disable-model-invocation: true
 ---
 
